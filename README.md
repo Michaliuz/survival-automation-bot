@@ -88,26 +88,6 @@ survival-automation-bot/
     ├── ping.js
     ├── help.js
     └── autobotstatusupdate.js
-🔧 Configuration
-config.json
-json
-{
-  "botName": "Survival Automation",
-  "prefix": "!",
-  "enablePrefix": true,
-  "ownerId": "YOUR_ID"
-}
-.env File
-Required variables:
-
-DISCORD_TOKEN: Bot token from Discord Developer Portal
-
-CLIENT_ID: Your bot's client ID
-
-GUILD_ID: Your server ID (for instant commands)
-
-OWNER_ID: Your Discord user ID
-
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
