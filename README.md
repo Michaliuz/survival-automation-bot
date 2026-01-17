@@ -130,8 +130,7 @@ Join our Discord Server
 👤 Developer
 RAK - Music Producer & Developer
 
-GitHub: @RAK-MUSIC
+GitHub: @codesbySurvive
 
-Discord: YourDiscordUsername
 
 ⭐ Star this repository if you found it useful!
