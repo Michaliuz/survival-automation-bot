@@ -1,0 +1,61 @@
+{
+  "botName": "Survival Automation",
+  "version": "1.0.0",
+  "prefix": "!",
+  "enablePrefix": true,
+  "ownerId": "1444405434592264347",
+  "autoReact": {
+    "defaultIntroReactions": [
+      "✨",
+      "👋"
+    ],
+    "defaultMusicReactions": [
+      "🎵",
+      "🎧",
+      "🔥"
+    ],
+    "defaultArtReactions": [
+      "🎨",
+      "✨",
+      "👌"
+    ]
+  },
+  "status": {
+    "rotationEnabled": true,
+    "rotationInterval": 300000,
+    "defaultStatuses": [
+      {
+        "type": "Listening",
+        "text": "Survival Automation"
+      },
+      {
+        "type": "Playing",
+        "text": "with Music Producers"
+      },
+      {
+        "type": "Watching",
+        "text": "for Auto-Reacts"
+      }
+    ]
+  },
+  "features": {
+    "enableAutoWelcome": true,
+    "enableReactionCount": true,
+    "enableCommandLogging": true,
+    "enableErrorReporting": true
+  },
+  "embeds": {
+    "primaryColor": "#5865F2",
+    "successColor": "#00FF00",
+    "errorColor": "#FF0000",
+    "warningColor": "#FFA500"
+  },
+  "security": {
+    "allowedMentionRoles": [
+      "@everyone",
+      "@here"
+    ],
+    "antiSpamEnabled": true,
+    "maxCommandsPerMinute": 20
+  }
+}

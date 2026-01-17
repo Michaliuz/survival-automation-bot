@@ -1,0 +1,45 @@
+{
+  "name": "survival-automation-bot",
+  "version": "1.0.0",
+  "description": "Survival Automation - purpose Discord bot with auto-react features",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "deploy": "node deploy-commands.js",
+    "shard": "node bot.js --shard"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "author": "RAK - Survival Automation",
+  "license": "MIT",
+  "keywords": [
+    "discord-bot",
+    "automation",
+    "auto-react",
+    "music",
+    "survival",
+    "bot",
+    "discord",
+    "moderation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RAK-MUSIC/survival-automation-bot"
+  },
+  "homepage": "https://github.com/RAK-MUSIC/survival-automation-bot#readme",
+  "bugs": {
+    "url": "https://github.com/RAK-MUSIC/survival-automation-bot/issues"
+  },
+  "engines": {
+    "node": ">=16.9.0",
+    "npm": ">=7.0.0"
+  }
+}
