@@ -1,3 +1,4 @@
+markdown
 # 🎵 Survival Automation Bot
 
 <div align="center">
@@ -9,7 +10,7 @@
 
 *A powerful Discord bot with auto-react features for music communities*
 
-![Bot Demo](https://cdn.discordapp.com/attachments/your-channel/your-image/demo.gif)
+![Bot Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVmaHdsNnE4M2tvbGlseG0waWhnNnNoNnI3Z2lmY3Z1c3V3MmVneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5t9w9bZjqyvq6ItZ5C/giphy.gif)
 
 </div>
 
@@ -18,7 +19,7 @@
 ### 🤖 **Auto-React System**
 
 <div align="center">
-  <img src="https://i.imgur.com/8nJy8yA.gif" width="400" alt="Auto-React Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHc2MDA2cHZ3ZHo1b2ExajJqNW5xOHBldHdkZTNhdjhhdGxrbWF4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FffyN4w0hauTbhu/giphy.gif" width="400" />
 </div>
 
 - **✨ Intro Auto-React**: Automatically reacts to introductions with sparkle effects
@@ -30,7 +31,7 @@
 ### ⚡ **Commands**
 
 <div align="center">
-  <img src="https://i.imgur.com/VF9pL7l.gif" width="400" alt="Commands Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hhYjZ1MjV6bTlpcG9uN2ptMHJ3dTVtbndhN3l2dXVqcW1wMXBxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" />
 </div>
 
 - **Slash Commands**: Modern `/` commands
@@ -41,7 +42,7 @@
 ### 🚀 **Other Features**
 
 <div align="center">
-  <img src="https://i.imgur.com/5ZQ8X9r.gif" width="400" alt="Features Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNzMGI2ZGJwcG9rdHRrODBkOXB5aGJzY21xbjRuc2QybTJ2YndjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abldj0b3rxrZUxW/giphy.gif" width="400" />
 </div>
 
 - **Multi-Server Ready**: Built for public use
@@ -59,7 +60,7 @@
 - Basic terminal knowledge
 
 <div align="center">
-  <img src="https://i.imgur.com/9LpJ7qN.gif" width="400" alt="Installation Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5wZGcwcDJxMWV5bHc0Y2dmMjYyOW52MmtqNGJqNm4zZW4zMjV4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKcGiHvQrYjtqC/giphy.gif" width="400" />
 </div>
 
 ### **Step 1: Clone Repository**
@@ -88,7 +89,7 @@ OWNER_ID=your_discord_id_here
 ```
 
 <div align="center">
-  <img src="https://i.imgur.com/L3vR8kY.gif" width="400" alt="Configuration Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGlsZWUwY2h2eWtzdHkzcDZrcjFpM3I4dThka2Y1cmFudGhtZGh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxUnJD/giphy.gif" width="400" />
 </div>
 
 ### **Step 4: Deploy Commands**
@@ -110,7 +111,7 @@ npm run dev
 ### **Administrator Commands**
 
 <div align="center">
-  <img src="https://i.imgur.com/7Xk9PwT.gif" width="400" alt="Admin Commands" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJzNXZrbDZyN2hlNmJ2aHNyNnJjYmJ2MGFmczF3eDh1bDd4bWVsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYNox7hK2vZkzP2/giphy.gif" width="400" />
 </div>
 
 | Command | Description | Example |
@@ -123,7 +124,7 @@ npm run dev
 ### **User Commands**
 
 <div align="center">
-  <img src="https://i.imgur.com/4M2nqQx.gif" width="400" alt="User Commands" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FqdnRlZGt5YWM1YmFscjk3ZXE0dnY0Z3RrZWx6MHYzZ2twOTNoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiN0L7EW5trfOvEk0/giphy.gif" width="400" />
 </div>
 
 | Command | Description | Effect |
@@ -155,7 +156,7 @@ survival-automation-bot/
 ## 🎨 **Customization**
 
 <div align="center">
-  <img src="https://i.imgur.com/6Wp3BvZ.gif" width="400" alt="Customization Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI5NDJzajltb3YycnI4bWNvcWR5NWU0eW5lMHN0Y3MxN3Z5aGd5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8gTp3WqXqjq/giphy.gif" width="400" />
 </div>
 
 ### **Channel Setup**
@@ -173,7 +174,7 @@ Default emojis used:
 ## 🤝 **Contributing**
 
 <div align="center">
-  <img src="https://i.imgur.com/9zUv7Qk.gif" width="400" alt="Contributing Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk5aGJwdWUyZmM0dXBkYjA1aHZtN3J0eGRqYjBsZ3F2Nzc5eW42OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duNowzaVjeBK/giphy.gif" width="400" />
 </div>
 
 1. **Fork** the repository
@@ -185,7 +186,7 @@ Default emojis used:
 ## 📞 **Support**
 
 <div align="center">
-  <img src="https://i.imgur.com/3Qv7J8R.gif" width="400" alt="Support Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21hbm50cjl3NjBlNDk3OXZmbG5nbTR3MmJzcXVxYmhsa2o2amx0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
 </div>
 
 - **Create an Issue**: [GitHub Issues](https://github.com/RAK-MUSIC/survival-automation-bot/issues)
@@ -199,7 +200,7 @@ Default emojis used:
 - **Discord**: RAK#0000
 
 <div align="center">
-  <img src="https://i.imgur.com/P9Q7vV2.gif" width="400" alt="Developer Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N2bWNvNHhtcmZ5ODJ3aDlpcGNsZzlwNTJtdjNsc2VuYjUzc3JxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abGQa0eQfgdXkKk/giphy.gif" width="400" />
 </div>
 
 ## 📄 **License**
@@ -213,7 +214,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### ⭐ **Star this repository if you found it useful!** ⭐
 
 <div align="center">
-  <img src="https://i.imgur.com/T2vLQyH.gif" width="300" alt="Star Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE1ZjJqem5sOG5yMHVpM2J1azQ5M2w5dzRhZXBtN3I4bWR5NGU1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300" />
 </div>
 
 **Experience the cool effects and smooth automation!** ✨🎵🎨
